@@ -1,0 +1,16 @@
+{
+  "name": "CRYPTOPILOT",
+  "short_name": "CryptoPilot",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#edf6ff",
+  "theme_color": "#eaf4ff",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
